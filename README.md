@@ -4,12 +4,17 @@
 - Pronome: Ele/dele 
 - Trabalho atualmente com Midias Sociais e Análise de Dados, mas busco a transição de carreira 🚀
 
+<div align="center">
+  <a href="https://github.com/Gcc10bin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gcc10bin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcc10bin"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-
   ##
  
 <div> 
