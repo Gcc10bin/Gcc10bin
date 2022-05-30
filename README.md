@@ -1,4 +1,4 @@
-## Oi! Tudo bem? Sou o Gabriel, desenvolvedor Web Full Stack Júnior 💻💛📚
+## Oi! Sou o Gabriel, desenvolvedor Web Full Stack Júnior 💻💛📚
 
 - Estudante da Resilia Educação
 - Pronome: Ele/dele 
