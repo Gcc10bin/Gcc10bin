@@ -1,8 +1,9 @@
 ## Oi! Sou o Gabriel, desenvolvedor Web Full Stack Júnior 💻💛📚
 
-- Estudante da Resilia Educação
-- Pronome: Ele/dele 
-- Trabalho atualmente com Midias Sociais e Análise de Dados, mas busco a transição de carreira 🚀
+📍 Residente em Niterói, aberto a propostas remotas. <br> 
+📚 Estudante de Desenvolvimento Full Stack no bootcamp da Resilia Educação. Portfolio <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
+💛 Pronome: Ele/dele <br>
+🚀 Trabalho atualmente com Midias Sociais e Análise de Dados, mas busco a transição de carreira <br>
 
 <div align="center">
   <a href="https://github.com/Gcc10bin">
