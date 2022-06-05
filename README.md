@@ -4,7 +4,7 @@
 📖 Aluno da Resilia Educação, no curso de Desenvolvimento Web Full Stack e meu Portfolio fica <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
 ⚙️ Trabalhando em minha transição de carreira. <br>
 
-<div>
+<div display="inline-block">
   <a href="https://github.com/gcc10bin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gcc10bin&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcc10bin&layout=compact&langs_count=7&theme=tokyonight"/>
