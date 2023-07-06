@@ -1,7 +1,7 @@
 ## Oi, sou o Gabriel! Desenvolvedor Web Full Stack Jr 🖖
 
-🏡 Moro em Niterói, RJ. <br> 
-📖 Aluno da Resilia Educação, no curso de Desenvolvimento Web Full Stack e meu Portfolio fica <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
+🏡 Moro no Rio de Janeiro, Capital. <br> 
+📖 Estudei programação pela Resilia Educação, no curso de Desenvolvimento Web Full Stack e meu Portfolio fica <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
 ⚙️ Trabalhando em minha transição de carreira. <br>
 
 <div display="inline-block">
