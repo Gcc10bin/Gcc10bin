@@ -2,7 +2,7 @@
 
 🏡 Moro no Rio de Janeiro, Capital. <br> 
 📖 Estudei programação pela Resilia Educação, no curso de Desenvolvimento Web Full Stack e meu Portfolio fica <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
-⚙️ Trabalhando em minha transição de carreira. <br>
+<br>
 
 <div display="inline-block">
   <a href="https://github.com/gcc10bin">
