@@ -1,7 +1,7 @@
-## Oi, sou o Gabriel! Desenvolvedor Web Full Stack Jr 🖖
+## Oi, sou o Gabriel! Desenvolvedor web full stack e Analista de Dados no mercado privado🖖
 
-🏡 Moro no Rio de Janeiro, Capital. <br> 
-📖 Estudei programação pela Resilia Educação, no curso de Desenvolvimento Web Full Stack e meu Portfolio fica <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
+🏡 Moro no Rio de Janeiro. <br> 
+📖 Estudei programação pela Resilia Educação mas atualmente atuo numa empresa de saúde como analista de planejamento e uso ferramentas de programação para otimizar as análises de dados, no curso de Desenvolvimento Web Full Stack da resilia, meu Portfolio fica aqui: <a href="https://github.com/Gcc10bin?tab=repositories">aqui</a>.<br>
 <br>
 
 <div display="inline-block">
